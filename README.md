@@ -29,6 +29,7 @@
 ![Linux Terminal](https://img.shields.io/badge/Linux_Terminal-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
 **Development & Scripting**
+
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![Smalltalk](https://img.shields.io/badge/Smalltalk-3A414A?style=flat-square&logo=smalltalk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
